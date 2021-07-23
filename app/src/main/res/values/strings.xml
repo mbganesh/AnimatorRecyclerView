@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ModernRecyclerView</string>
+
+
+    <string-array name="no_arr">
+        <item>Unit 1</item>
+        <item>Unit 2</item>
+        <item>Unit 3</item>
+        <item>Unit 4</item>
+        <item>Unit 5</item>
+        <item>Unit 6</item>
+        <item>Unit 1</item>
+        <item>Unit 2</item>
+        <item>Unit 3</item>
+        <item>Unit 4</item>
+        <item>Unit 5</item>
+        <item>Unit 6</item>
+    </string-array>
+
+    <string-array name="title_arr">
+        <item>This is unit 1 title</item>
+        <item>This is unit 2 title</item>
+        <item>This is unit 3 title</item>
+        <item>This is unit 4 title</item>
+        <item>This is unit 5 title</item>
+        <item>This is unit 6 title</item>
+        <item>This is unit 1 title</item>
+        <item>This is unit 2 title</item>
+        <item>This is unit 3 title</item>
+        <item>This is unit 4 title</item>
+        <item>This is unit 5 title</item>
+        <item>This is unit 6 title</item>
+    </string-array>
+
+</resources>
